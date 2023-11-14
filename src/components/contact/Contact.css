@@ -1,0 +1,47 @@
+.Contact{
+    width: 80%;
+    height: fit-content;    
+   background-color:rgba(42, 59, 98, 0.3);
+   display: flex;
+   flex-direction: row;
+   margin: auto;
+   margin-top: 20px;
+
+   border-top-left-radius: 20px;  
+
+   border-top-right-radius: 20px;
+}
+
+.ContactDiv1{
+    flex: 1 1 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    position: relative;
+    border-right: 2px solid #000;
+}
+.ContactDiv1 svg{
+    position: absolute;
+    left:5px;
+    width: 15%;
+}
+.ContactDiv2{
+    flex: 1 1 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin: 0;
+}
+
+.ContactDiv2 svg{
+    position: absolute;
+    left:5px;
+    width: 15%;
+ }
+.ContactInfo{
+    width: 60%;
+}

@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Euro & Epal Palet Üretimi",
+      "description": "Euro ve Epal paletleri, uluslararası taşımacılık ve lojistik endüstrisinde yaygın olarak kullanılan standartlara uygun palet türleridir. Bu paletler, yükleri güvenli bir şekilde taşımak ve depolamak için tasarlanmış dayanıklı ve standart boyutlu ahşap paletlerdir. Euro ve Epal paletleri, uluslararası sevkiyat için gerekli kalite standartlarına sahip olduğundan, güvenilir ve etkili bir lojistik çözümü sunar.",
+      "price": 100,
+      "imageUrl": "./src/images/euroepalpalet.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ceviz Ağacından Masa",
+      "description": "Ceviz ağacından masa, doğal güzellik ve zarafeti bir araya getiren şık mobilyalar arayanlar için mükemmel bir seçimdir. Ceviz ağacının benzersiz deseni ve rengi, her masaya özgü bir karakter katarken, dayanıklı yapısı uzun ömürlü kullanım sağlar. Ceviz ağacından masa, hem ev hem de ofis dekorasyonunda estetik ve işlevselliği bir arada sunar.",
+      "price": 150,
+      "imageUrl": "/images/ahşap masa.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sandalyeler",
+        "description": "Sandalyeler, konforlu oturma alanları oluşturmak için tasarlanmış farklı tarzlarda ve malzemelerde üretilen mobilyalardır. Ahşap, metal veya plastik gibi çeşitli malzemelerden yapılan sandalyeler, ev, ofis, restoran ve kafe gibi farklı mekanlarda kullanılmak üzere çeşitlilik gösterir. Farklı renk ve doku seçenekleriyle sandalyeler, mekanlara şıklık ve konfor katmak için ideal bir seçenektir.",
+        "price": 150,
+        "imageUrl": "/images/masasandalye.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sıfır Palet Üretimi",
+        "description": "Sıfır paletler, yeniden kullanılmış malzemeler yerine yeni malzemeler kullanılarak üretilen palet türüdür. Bu paletler, özellikle ihracat ve uluslararası taşımacılıkta kullanılmak üzere çeşitli boyutlarda ve özelliklerde üretilir. Sıfır paletler, yükleri taşırken dayanıklı ve güvenilir bir çözüm sunarken, aynı zamanda çevre dostu bir seçenektir. Yeniden kullanılmış malzemelerin kullanılmadığı sıfır paletler, taşıma maliyetlerini düşürmek ve standart kaliteyi garanti etmek için tercih edilebilir.",
+        "price": 150,
+        "imageUrl": "/images/palet2.jpg"
+    }
+
+  ]

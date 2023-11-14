@@ -1,0 +1,29 @@
+.product-image{
+    height: 400px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.product-urunlerimiz{
+    width: 60%;
+    height: 100px;
+    margin: auto;
+   
+   /* background-color:rgba(3, 14, 39, 0.8);*/
+  /* background-color:rgba(42, 59, 98, 0.8);*/
+  background: url(../../images//palet.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+    color: white;
+    text-align:center; 
+    display:table;
+    margin-bottom: 20px;
+    
+}
+
+.product-urunlerimiz h1{
+    margin: 0;
+    display:table-cell; vertical-align:middle;
+    text-underline-offset: 15px;
+    
+}

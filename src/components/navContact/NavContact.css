@@ -1,0 +1,47 @@
+.NavContact{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   background-color: rgba(245, 245, 220, 0.4);
+    
+}
+
+
+.NavContactPhone , .NavContantHours , .NavContactMail{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.NavContactInfo{
+margin-left: 20px;
+}
+
+
+@media screen and (max-width:998px){
+    .NavContact{
+        display: block;
+    }
+    .logo{
+        display: block;
+        margin: auto;
+        width: 20%;
+    }
+    .NavContactPhone , .NavContantHours , .NavContactMail{
+        display: inline-block;
+        font-size: medium ;
+        margin-left: 20px;
+     
+    }
+    .NavContactInfo{
+        margin-left: 0px;
+        }
+    .NavContact h3{
+        font-size: medium;
+    }
+    .NavContact h5{
+        font-size: medium;
+    }
+}

@@ -1,0 +1,36 @@
+.NavBar{
+    display: flex;
+    flex-direction: row;
+   /* border-bottom: 1px solid #000;*/
+    text-align: center;
+    align-items: center;
+    width: 95%;
+    margin:auto;    
+   background-color:rgba(3, 14, 39, 0.8);
+   
+
+
+}
+.logo{
+    width: 8%;
+}
+.NavBar h4{
+    margin: 0;
+    font-weight: bolder;
+   
+}
+.NavBar a{
+    text-decoration: none;
+    color: white;
+}
+@media screen and (max-width:1200px) {
+    .logo{
+        width: 10%;
+    }
+    .NavBar h4{
+        font-weight: lighter;
+        font-size: smaller;
+        margin-right: 20px;
+    }
+    
+}

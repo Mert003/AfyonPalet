@@ -1,0 +1,39 @@
+.About{
+    
+    width: 90%;
+    margin: auto;
+    font-size: larger;
+    margin-top: 10px;
+}
+.About img{
+    width: 50%;
+    object-fit: cover;
+    object-position: center;
+}
+.AboutContent{
+    
+    
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 50%;
+}
+.About h1{
+    margin-bottom: 20px;
+}
+.AboutDiv{
+    width: 100%;
+    
+    height:50vh ;
+    display: flex;
+    flex-direction: row;
+}
+@media screen and (max-width:1200px) {
+    .AboutDiv{
+        height: 100vh;
+    }
+}
+
+
